@@ -7,4 +7,4 @@
   <li>Game Development in <b><a href="https://github.com/YoYoGames">GameMaker Studio 2</a></b>
 </ul>
 <h2>Education 🎓</h2>
-<p>Graduate of <b>Conestoga College Institute of Technology and Advanced Learning</b> in <b>Software Engineering Technology</b></p>
+<p>Graduate of <b>Conestoga College</b> in <b><a href="https://www.conestogac.on.ca/fulltime/software-engineering-technology">Software Engineering Technology</a></b></p>
