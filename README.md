@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>I'm Eric Emerson 🎮</h1>
+<hr>
+<h4>I'm starting a career in Web Development currently working with <a href="https://github.com/reactjs">ReactJS</a>.</h4>
+<hr>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kupoapo&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+
+
 
 <!--
 **kupoapo/kupoapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
