@@ -1,5 +1,9 @@
 <h1>I'm Eric Emerson 🎮</h1>
 <h4>I'm starting a career in Web Development currently working with <a href="https://github.com/reactjs">ReactJS</a>.</h4>
+<h2>⌨️ Skills</h2>
+<ul>
+  <li>Front-end Development in <a href="https://github.com/reactjs">ReactJS</a></li>
+</ul>
 <h2>Github Languages</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupoapo&layout=compact&theme=tokyonight" alt="My github stats" />
 
