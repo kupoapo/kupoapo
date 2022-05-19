@@ -1,5 +1,5 @@
 <h1>I'm Eric Emerson 🎮</h1>
-<p>I'm starting a career in Web Development currently working with <a href="https://github.com/reactjs">ReactJS</a>.</p>
+<p>I'm starting a career in Web Development currently working with <a href="https://github.com/reactjs">ReactJS</a></p>
 <h2>Skills 💻</h2>
 <ul>
   <li>Front-end Development in <b>HTML</b>, <b>CSS</b>, and <b>ReactJS</b></li>
